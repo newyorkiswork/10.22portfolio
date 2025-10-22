@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { ArrowRight, Code2, Rocket, Brain } from "lucide-react"
+import { ArrowRight, Code2, Rocket, Brain, Sparkles } from "lucide-react"
 import { motion } from "framer-motion"
 
 export default function Home() {
